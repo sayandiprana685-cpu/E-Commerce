@@ -49,19 +49,7 @@ Vendora is a full-stack e-commerce application with buyer, seller, and admin das
 
 Create a `.env` file inside `server/` based on `.env.example`:
 
-```env
-PORT=5000
-NODE_ENV=development
-MONGODB_URI=mongodb://127.0.0.1:27017/vendora
-JWT_SECRET=change_me
-JWT_EXPIRES_IN=7d
-JWT_RESET_SECRET=change_me
-JWT_RESET_EXPIRES_IN=10m
-CLIENT_URL=http://localhost:5173
-ADMIN_NAME=Admin
-ADMIN_EMAIL=admin@vendora.com
-ADMIN_PASSWORD=Admin@123
-```
+
 
 ## Run the App
 
