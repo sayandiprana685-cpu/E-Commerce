@@ -1,0 +1,1 @@
+import{j as s,ag as c}from"./index-BDGj9UIv.js";const n=({icon:e,title:t,message:a,description:i,action:x})=>s.jsxs("div",{className:"empty-state",children:[s.jsx("div",{className:"empty-icon",children:e||s.jsx(c,{})}),s.jsx("h3",{children:t}),s.jsx("p",{children:i||a}),x]});export{n as E};

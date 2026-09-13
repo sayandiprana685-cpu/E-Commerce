@@ -1,0 +1,1 @@
+import{j as t}from"./index-BDGj9UIv.js";import s from"./Wishlist-Dzm7XRQI.js";import"./ProductCard-yhbZlIzZ.js";import"./EmptyState-BTpQ0NIF.js";const m=()=>t.jsx(s,{embedded:!0});export{m as default};
